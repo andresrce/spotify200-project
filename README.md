@@ -1,7 +1,7 @@
 # spotify200-project
 This README documents the steps followed in conducting an EDA on a Spotify dataset using Python, with a focus on understanding song features, artist nationalities, and temporal trends in music preferences.
 
-Data Mounting and Initial Setup
+# Data Mounting and Initial Setup
 Data Source Connection: Utilized Google Colab to connect with Google Drive for data access.
 python
 Copy code
