@@ -1,4 +1,4 @@
-# spotify200-project
+# Spotify-Project
 In the Python file you will find the step by step of the work carried out
 
 This work are conducting an EDA on a Spotify dataset using Python, with a focus on understanding song features, artist nationalities, and temporal trends in music preferences.
